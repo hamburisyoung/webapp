@@ -13,3 +13,4 @@ public class control {
         return "index";
 
 }
+}
